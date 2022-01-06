@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+.inner-container {
+    display: inline-block;
+}
+
+img {
+    width: 60%;
+}
+
+p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
